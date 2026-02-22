@@ -38,14 +38,23 @@
     <h2>Projects</h2>
     <div class="projects">
 
+        <div class="card">
+            <h3>Urban Mobility Analysis</h3>
+            <p>
+                End-to-end data analysis project evaluating transportation infrastructure
+                investment impact in LATAM cities using Python and SQL.
+            </p>
+            <a href="#">View Project</a>
+        </div>
+
      
 </section>
 
 <section>
     <h2>Contact</h2>
-    <p>Email: your.email@email.com</p>
-    <p>LinkedIn: <a href="#">linkedin.com/in/yourprofile</a></p>
-    <p>GitHub: <a href="#">github.com/yourgithub</a></p>
+    <p>Email: alejocastroangulo@gmail.com</p>
+    <p>LinkedIn: <a href="#">linkedin.com/in/alejocastroangulo</a></p>
+    <p>GitHub: <a href="#">github.com/alejocastroangulo</a></p>
 </section>
 
 <footer>
